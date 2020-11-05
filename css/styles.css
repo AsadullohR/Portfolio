@@ -47,6 +47,20 @@ html {
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
+.custom-image-size{
+  width: 3rem;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  margin-top: 4rem;
+}
+
+.custom-about-text{
+  font-family: Philosopher;
+  font-size: large;
+  color: #000;
+  align-content: left;
+  padding: 2rem 3rem;
+}
 
 body {
   margin: 0;
